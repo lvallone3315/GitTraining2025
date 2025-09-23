@@ -8,5 +8,6 @@ int main()
     std::cout << "Hello Github!\n";
     std::cout << "  Hello again - linking to Jira\n";
     std::cout << "  2nd commit with Jira ID\n";
+    std::cout << "  3rd commit using the correct Jira ID\n";
 }
 
