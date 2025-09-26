@@ -12,5 +12,6 @@ int main()
     std::cout << "  Make a local change\n";
     std::cout << "  Make a remote change\n";
     std::cout << "  Make another change to be merge\n";
+    std::cout << "  Add another remote change\n";
 }
 
