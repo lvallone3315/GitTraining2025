@@ -11,5 +11,6 @@ int main()
     std::cout << "  3rd commit using the correct Jira ID\n";
     std::cout << "  Make a local change\n";
     std::cout << "  Make a remote change\n";
+    std::cout << "  Make another change to be merge\n";
 }
 
