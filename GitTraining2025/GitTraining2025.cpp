@@ -2,6 +2,7 @@
 //
 
 #include <iostream>
+#include "Lee.h"
 
 int main()
 {
@@ -13,5 +14,9 @@ int main()
     std::cout << "  Make a remote change\n";
     std::cout << "  Make another change to be merge\n";
     std::cout << "  Add another remote change\n";
+
+    // initialize Lee class
+    Lee lee;
+    std::cout << lee.getMyName();
 }
 
